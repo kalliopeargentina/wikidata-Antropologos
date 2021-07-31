@@ -1,0 +1,13 @@
+name: Antropologos-Wikipedia
+title: Antropologos-Wikipedia
+username:
+account: kalliope
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4260322
+bundleId: 4707275
+url: https://kalliope.shinyapps.io/Antropologos-Wikipedia/
+when: 1623453284.51942
+lastSyncTime: 1623453284.51942
+asMultiple: FALSE
+asStatic: FALSE
